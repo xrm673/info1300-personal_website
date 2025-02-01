@@ -1,0 +1,112 @@
+/* Source: (original work) Raymond Xu */
+html {
+    background-color: white;
+    color: #000000;
+  }
+
+  body {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12pt;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-size: 24pt;
+    font-weight: bold;
+    padding: 15px;
+    border-bottom: 2px solid black;
+  }
+
+  nav menu {
+    margin: 0;
+    padding: 0;
+  }
+
+  nav menu li {
+    list-style: none;
+  }
+
+  nav menu li a {
+    display: block;
+    padding: 15px;
+    border-bottom: 1px solid grey;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+  }
+
+  h2 {
+    font-size: 18pt;
+    border-bottom: 1px solid rgb(145, 139, 139);
+  }
+
+  em {
+    font-style: normal;
+    font-weight: bold;
+  }
+
+  section a {
+    color:rgb(168, 100, 214)
+  }
+
+  strong {
+    color: rgb(100, 100, 214);
+    font-weight: bold;
+  }
+
+  mark {
+    font-family: monospace;
+    font-size: 11pt;
+    background-color: rgb(224, 223, 223);
+    border-radius: 6px;
+    padding: 4px;
+  }
+
+  .top {
+    padding: 20px;
+    background-color: rgb(248, 255, 240);
+  }
+
+  .middle {
+    padding: 20px;
+    background-color: azure;
+  }
+
+  .bottom {
+    padding: 20px;
+    background-color:rgb(254, 239, 252);
+  }
+
+  .thoughts {
+    padding: 20px;
+    background-color: rgb(244, 244, 244);
+  }
+
+
+  .illustrations img {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    min-width: 400px;
+    padding: 10px;
+  }
+
+  .headshots img {
+    display: block;
+    width: 25%;
+    max-width: 500px;
+    min-width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .logo img {
+    display: block;
+    width: 20%;
+    max-width: 300px;
+    min-width: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+  }
